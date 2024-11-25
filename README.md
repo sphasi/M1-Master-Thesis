@@ -1,6 +1,6 @@
 # M1 Thesis: Clustering and Variable Selection
 
-This repository contains the Master 1 thesis titled **"Quelles variables sont importantes pour le clustering?"**. Authored by **Sixtine Sphabmixay, Josue Kamdem Kamwa, and Harivola Rajaonah**, the thesis explores methods for clustering and variable selection in the context of Gaussian mixture models.
+This repository contains the Master 1 thesis titled **"Which variables are important for clustering?"**. Authored by **Sixtine Sphabmixay, Josue Kamdem Kamwa, and Harivola Rajaonah**, the thesis explores methods for clustering and variable selection in the context of Gaussian mixture models and is written in French.
 
 ## Contents
 
